@@ -1,5 +1,4 @@
-## Author's tour of Iceland 🧊🗻
-<hr>
+## Author's tour of Iceland 🧊
 
 The site is fully matches PSD desktop and mobile versions layouts.
 
